@@ -1,0 +1,5 @@
+[
+    { "name": "@nestjs/core", "version": "10.4.6" },
+    { "name": "@nestjs/core", "version": "10.4.4" },
+    { "name": "@nestjs/platform-fastify", "version": "10.4.6" }
+]
